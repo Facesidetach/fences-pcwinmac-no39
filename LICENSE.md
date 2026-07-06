@@ -1,4 +1,4 @@
-# 
+# Exclusive Fences extensions for Mac OS | Top Fences extensions for PC Windows. Featuring hardware acceleration and hotkey support — optimized for maximum performance on every platform.
 
 
 
